@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+nltk
+scipy
+pydantic
+python-multipart
+torchvision
+torchaudio
