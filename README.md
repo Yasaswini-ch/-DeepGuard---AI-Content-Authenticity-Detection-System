@@ -2,8 +2,6 @@
 
 DeepGuard is a state-of-the-art, multi-modal AI detection platform designed to verify the authenticity of digital content. It distinguishes between human-created and AI-generated text and images, providing detailed insights, explainability metrics, and robust analysis tools.
 
-![DeepGuard UI](./frontend/public/vite.svg) *Note: Add a screenshot of the dashboard here*
-
 ## 🚀 Key Features
 
 ### 🧠 Advanced Text Analysis
